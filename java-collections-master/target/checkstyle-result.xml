@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/Vasilii_Kirillov/EPAM/MENTORING/java-collections-master 2/src/main/java/com/epam/rd/at/java_collections/dynamic_array/DynamicArrayDemo.java">
+<error line="4" column="22" severity="warning" message="Member name &apos;NUrUaldnafv_asfgi3&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="4" column="22" severity="warning" message="Variable &apos;NUrUaldnafv_asfgi3&apos; explicitly initialized to &apos;null&apos; (default value for its type)." source="com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck"/>
+<error line="4" column="22" severity="warning" message="Variable &apos;NUrUaldnafv_asfgi3&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+</checkstyle>
